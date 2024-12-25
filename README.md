@@ -1,4 +1,6 @@
-🛒 **Big Basket Sales and Product Analysis**
+![big_basket](https://github.com/rohit6196/python-Big_Basket_analysis/blob/main/Big-basket-01.webp)
+
+# 🛒 **Big Basket Sales and Product Analysis**
 
 ## 📋 **Project Objective**
 This project aims to analyze sales data from **Big Basket** to uncover insights that can help:
