@@ -57,13 +57,13 @@ The dataset contains the following columns:
 
 ## 📊 **Visualizations**
 ### 🔹 **Top 10 Selling Products**
-![Top 10 Selling Products](link_to_image)
+![Top 10 Selling Products](https://github.com/rohit6196/python-Big_Basket_analysis/blob/main/big%20basket%20top%2010%20sale.png)
 
 ### 🔹 **Products Per Category**
-![Products Per Category](link_to_image)
+![Products Per Category](https://github.com/rohit6196/python-Big_Basket_analysis/blob/main/big%20basket%20per%20category%20.png)
 
 ### 🔹 **Top 5 Rated Products**
-![Top 5 Rated Products](link_to_image)
+![Top 5 Rated Products](https://github.com/rohit6196/python-Big_Basket_analysis/blob/main/big%20basket%20products%20by%20rating%20.png)
 
 ---
 
